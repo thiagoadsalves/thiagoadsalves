@@ -9,15 +9,6 @@ Oh, and did I mention I'm also a CMS whisperer? WordPress, Drupal, HubSpot - you
 
 In my spare time, I enjoy long walks on the beach, candlelit dinners, and writing bios that make me sound like the James Bond of programming. 
 
-## 🌍 I'm currently living in...
-Globetrotter
-
-## 🏗️ I'm currently working at...
-Building digital dreams at [Your Company Name]
-
-## 📆 I joined GitHub in...
-Joined the coding circus in [Year]
-
 ## 📁 Pinned Repositories
 1. **universal-app-starter-kit:** A starter kit for those who can't decide between React, Angular, Vue, or Laravel. Why not have them all?
 2. **cms-conqueror:** A collection of my greatest hits in WordPress and Drupal. Contains more plugins than you can shake a stick at.
@@ -29,4 +20,4 @@ Joined the coding circus in [Year]
 Crushing code and taking names.
 
 ## 📫 How to reach me
-You can find me on [Twitter](your-twitter-link), [LinkedIn](your-linkedin-link), or shoot me an [email](your-email)!
+You can find me on [email](thiagoadsalves@gmailcom)!
